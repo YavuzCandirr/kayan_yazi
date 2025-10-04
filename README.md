@@ -51,8 +51,7 @@
 <p align="center">
   <img src="lcd_devre.png" alt="LCD Kaydırmalı Mesaj Devresi" width="500"/>
 </p>
-
-> Not: Eğer servo motor veya başka bileşen eklenmediyse, devrede sadece LCD gözükür.  
+ 
 
 ---
 
